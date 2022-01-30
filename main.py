@@ -55,4 +55,4 @@ while True:
     humi += 1
     light_intensity += 1
     client.publish('v1/devices/me/telemetry', json.dumps(collect_data), 1)
-    time.sleep(5)
+    time.sleep(10)
