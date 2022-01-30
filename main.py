@@ -1,3 +1,5 @@
+Link ThingsBoard Dashboard https://demo.thingsboard.io/dashboard/98325830-6ecd-11ec-9a90-af0223be0666?publicId=b1256de0-75ea-11ec-9c90-dfa5d40d8afd
+
 print("Xin chào ThingsBoard")
 import paho.mqtt.client as mqttclient
 import time
